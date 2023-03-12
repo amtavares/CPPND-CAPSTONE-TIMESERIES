@@ -1,0 +1,4 @@
+/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build/CMakeFiles/rebuild_cache.dir
+/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build/CMakeFiles/edit_cache.dir
+/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build/CMakeFiles/stockviewer.dir
+/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build/CMakeFiles/glad.dir

@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/analysis.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/analysis.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/analysis.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/imgui.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/imgui_demo.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_demo.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_demo.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/imgui_draw.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_draw.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_draw.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/imgui_impl_opengl3.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_impl_opengl3.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/imgui_impl_sdl.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_impl_sdl.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_impl_sdl.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/imgui_widgets.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_widgets.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/main.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/main.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/main.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -Wall -Wextra -std=gnu++17 -o CMakeFiles/stockviewer.dir/src/stock.cpp.o -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/stock.cpp",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/stock.cpp"
+},
+{
+  "directory": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/usr/include/SDL2 -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/include -I/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/include  -g   -o CMakeFiles/glad.dir/lib/glad/src/glad.c.o   -c /home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/src/glad.c",
+  "file": "/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/lib/glad/src/glad.c"
+}
+]

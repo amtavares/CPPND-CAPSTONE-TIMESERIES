@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stock.h
+string
+-
+vector
+-
+
+/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/stock.cpp
+string
+-
+fstream
+-
+sstream
+-
+algorithm
+-
+iostream
+-
+iomanip
+-
+stock.h
+/home/parallels/Desktop/dev/CppND-Capstone-TimeSeries/src/stock.h
+
